@@ -133,7 +133,7 @@ def tracer_complexite():
     # Effacer le graphique précédent et tracer la nouvelle courbe
     ax.clear()
     ax.plot(valeurs_n, complexite, color='purple', label="Complexité O(√n)")
-    ax.set_title("Complexité théorique de la factorisation récursive")
+    ax.set_title("Complexité de la factorisation récursive")
     ax.set_xlabel("Valeur de n")
     ax.set_ylabel("Complexité O(√n)")
     ax.legend()
