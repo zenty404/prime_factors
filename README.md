@@ -21,10 +21,9 @@ L’objectif principal est de **tester les performances d’un algorithme récur
 
 ## Installation et Lancement
 
-1. Clonez le dépôt GitHub pour obtenir le code source :
+1. Ouvrir le dossier du projet :
 
     ```bash
-    git clone https://github.com/zenty404/prime_factors.git
     cd prime_factors
     ```
 
